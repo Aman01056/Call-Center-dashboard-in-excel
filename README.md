@@ -2,8 +2,6 @@
 
 An interactive and dynamic Power BI dashboard to monitor call center performance, agent efficiency, and issue resolution status.
 
-![Call Center Dashboard Screenshot]![Screenshot 2025-07-04 110613](https://github.com/user-attachments/assets/be3c9f4b-9b51-498d-a24f-6c84d25d6ea8)
-
 
 <details>
 <summary>🔍 <strong>Dashboard Overview</strong></summary>
@@ -34,7 +32,8 @@ This dashboard provides insights into:
 | Avg. Satisfaction Score    | 3.6 / 5     |
 
 
-</details>
+
+![Call Center Dashboard Screenshot]![Screenshot 2025-07-04 180949](https://github.com/user-attachments/assets/3b4df84e-1b3d-4bf0-b933-4ac3804cc7dd)
 
 ---
 
